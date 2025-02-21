@@ -1,0 +1,2 @@
+# solveAlgorithm
+by java
